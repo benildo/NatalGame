@@ -1,0 +1,5 @@
+Content\font.xnb
+Content\Scenario\background.xnb
+Content\Player\noel.xnb
+Content\Scenario\presente.xnb
+Content\Scenario\presente.png

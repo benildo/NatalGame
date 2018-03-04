@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animador", "Animador\Animador\Animador.csproj", "{36F924C1-9366-48DE-9DE0-F2A23D5AF52A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimadorContent", "Animador\AnimadorContent\AnimadorContent.contentproj", "{6985AA90-19E6-48ED-83B8-5D6B5F79CF77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36F924C1-9366-48DE-9DE0-F2A23D5AF52A}.Debug|x86.ActiveCfg = Debug|x86
+		{36F924C1-9366-48DE-9DE0-F2A23D5AF52A}.Debug|x86.Build.0 = Debug|x86
+		{36F924C1-9366-48DE-9DE0-F2A23D5AF52A}.Release|x86.ActiveCfg = Release|x86
+		{36F924C1-9366-48DE-9DE0-F2A23D5AF52A}.Release|x86.Build.0 = Release|x86
+		{6985AA90-19E6-48ED-83B8-5D6B5F79CF77}.Debug|x86.ActiveCfg = Debug|x86
+		{6985AA90-19E6-48ED-83B8-5D6B5F79CF77}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

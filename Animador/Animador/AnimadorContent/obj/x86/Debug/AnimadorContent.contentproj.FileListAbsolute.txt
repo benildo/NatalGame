@@ -1,0 +1,2 @@
+C:\TCC\Testes\Animador\Animador\AnimadorContent\obj\x86\Debug\AnimadorContent.contentprojResolveAssemblyReference.cache
+C:\Users\Benildo\Documents\GitHub\NatalGame\Animador\Animador\AnimadorContent\obj\x86\Debug\AnimadorContent.contentprojResolveAssemblyReference.cache
